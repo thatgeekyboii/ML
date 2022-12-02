@@ -1,2 +1,2 @@
 # ML
-Darknet Classification Using Machine Learning
+CS 584 Project - Darknet Classification Using Machine Learning
